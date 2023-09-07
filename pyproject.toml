@@ -11,6 +11,7 @@ requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4",
     "httpx",
+    "lxml",
     "pandas",
 ]
 classifiers = [
